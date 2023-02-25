@@ -1,0 +1,478 @@
+[
+    {
+        "AL": "europe",
+        "Albania": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://albcontrol.al/al/aip/09-Jan-2023-NA/2023-01-09/html/index.html"
+    },
+    {
+        "AM": "europe",
+        "Armenia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://armats.am/storage/attachments/167153366903-22_With_new_AICs(14JUL2022)/html/index-en-GB.html"
+    },
+    {
+        "AW": "north central america",
+        "Aruba": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "BH": "middle east",
+        "Bahrain": "middle east",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.mtt.gov.bh/eAIP/2022-12-01-AIRAC/html/index-en-BH.html"
+    },
+    {
+        "BE": "europe",
+        "Belgium": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html"
+    },
+    {
+        "BZ": "north central america",
+        "Belize": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.cocesna.org/aipca/AIP_2323/Eurocontrol/COCESNA/2023-01-26-NON%20AIRAC/html/index-es-ES.html"
+    },
+    {
+        "BJ": "africa",
+        "Benin": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "BQ": "north central america",
+        "Bonaire": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "BA": "europe",
+        "Bosnia and Herzegovina": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://eaip.bhansa.gov.ba/2023-02-23-AIRAC/html/index.html"
+    },
+    {
+        "BF": "africa",
+        "Burkina Faso": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "CM": "africa",
+        "Cameroon": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "CF": "africa",
+        "Central African Republic": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "TD": "africa",
+        "Chad": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "KM": "africa",
+        "Comoros": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "CG": "africa",
+        "Congo": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "HR": "europe",
+        "Croatia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.crocontrol.hr/UserDocsImages/AIS%20produkti/eAIP/2023-02-23-AIRAC/html/index-en-HR.html"
+    },
+    {
+        "CW": "north central america",
+        "Curacao": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "SV": "north central america",
+        "EL Salvador": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "http://dc-ansp.org/eAIS/eaip-dutch-caribbean/"
+    },
+    {
+        "GQ": "africa",
+        "Equatorial Guinea": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "EE": "europe",
+        "Estonia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "http://eaip.eans.ee/2023-02-23/html/index-et.html"
+    },
+    {
+        "FR": "europe",
+        "France": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/FRANCE/AIRAC-2023-02-23/html/index-fr-FR.html/"
+    },
+    {
+        "GP": "north central america",
+        "France Guadalope": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/documents/htmlshow?f=dvd/eAIP_23_FEB_2023/CAR-SAM-NAM/home.html"
+    },
+    {
+        "MQ": "north central america",
+        "France Martinque": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/CAR-SAM-NAM/AIRAC-2023-01-26/html/index-fr-FR.html"
+    },
+    {
+        "GF": "south america",
+        "French Guiana": "south america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/CAR-SAM-NAM/AIRAC-2023-01-26/html/index-fr-FR.html"
+    },
+    {
+        "PF": "asia pacific",
+        "French Polynesia": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/PAC-P/AIRAC-2023-02-23/html/index-fr-FR.html"
+    },
+    {
+        "GA": "africa",
+        "Gabon": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "GE": "europe",
+        "Georgia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://airnav.ge/eaip/2022-10-20-AIRAC/html/index-en-GB.html"
+    },
+    {
+        "GW": "africa",
+        "Guinea-Bissau": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "HK": "asia pacific",
+        "Hong Kong": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ais.gov.hk/eaip_20230223/2023-02-23-000000/html/index-en-US.html"
+    },
+    {
+        "HU": "europe",
+        "Hungary": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ais-en.hungarocontrol.hu/aip/2022-12-01/"
+    },
+    {
+        "IS": "europe",
+        "Iceland": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://eaip.isavia.is/AMDT_01-23_2023_01_27/"
+    },
+    {
+        "IN": "asia pacific",
+        "India": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim-india.aai.aero/eaip-v2-01-2023/index-en-GB.html"
+    },
+    {
+        "IL": "middle east",
+        "Israel": "middle east",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://e-aip.azurefd.net/2022-11-03-AIRAC/html/index.html"
+    },
+    {
+        "CI": "africa",
+        "Ivory Coast": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "KZ": "europe",
+        "Kazakhstan": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ans.kz/AIP/eAIP/2023-02-23-AIRAC/html/index-en-GB.html"
+    },
+    {
+        "KG": "europe",
+        "Kyrgyzstan": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "http://kan.kg/ais/eaip/2022-10-06-AIRAC/html/index_commands.html"
+    },
+    {
+        "LV": "europe",
+        "Latvia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ais.lgs.lv/eAIPfiles/2023_001_26-JAN-2023/data/2023-01-26-AIRAC/html/index.html"
+    },
+    {
+        "LT": "europe",
+        "Lithuania": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ans.lt/a1/aip/005_29Dec2022/2022-12-29-AIRAC/html/index.html"
+    },
+    {
+        "LU": "europe",
+        "Luxembourg": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ops.skeyes.be/html/belgocontrol_static/eaip/eAIP_Main/html/index-en-GB.html"
+    },
+    {
+        "MO": "asia pacific",
+        "Macao": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ais.gov.hk/eaip_20230223/2023-02-23-000000/html/index-en-US.html"
+    },
+    {
+        "MG": "africa",
+        "Madagascar": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "MY": "asia pacific",
+        "Malaysia": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aip.caam.gov.my/aip/eAIP/2023-02-23-AIRAC/html/index-en-MS.html"
+    },
+    {
+        "ML": "africa",
+        "Mali": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "MR": "africa",
+        "Mauritania": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "MN": "asia pacific",
+        "Mongolia": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ais.mn/files/aip/eAIP/valid/html/index-en-MN.html?target=https%3A//ais.mn/files/aip/eAIP/valid/html/ZM-cover-en-MN.html&menuState=https%3A//ais.mn/files/aip/eAIP/valid/html/eAIP/ZM-menu-en-MN.html,GEN,ENR,AD"
+    },
+    {
+        "ME": "europe",
+        "Montenegro": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://smatsa.rs/wp-content/uploads/aip/trenutna_publikacija/2023-02-23/23-Feb-2023-A/2023-02-23-AIRAC/html/index_commands.html"
+    },
+    {
+        "MA": "africa",
+        "Morocco": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://siamaroc.onda.ma/eAIP/index.htm"
+    },
+    {
+        "MM": "asia pacific",
+        "Myanmar": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ais.gov.mm/eAIP/2022-05-30/html/index-en-GB.html"
+    },
+    {
+        "NL": "europe",
+        "Netherlands": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://eaip.lvnl.nl/2023-02-09-AIRAC/html/index-en-GB.html"
+    },
+    {
+        "NC": "asia pacific",
+        "New Caledonia": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/PAC-N/AIRAC-2023-02-23/html/index-fr-FR.html"
+    },
+    {
+        "NE": "africa",
+        "Niger": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "NO": "europe",
+        "Norway": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ais.avinor.no/no/AIP/View/123/2023-01-26-AIRAC/html/index-no-NO.html"
+    },
+    {
+        "PK": "middle east",
+        "Pakistan": "middle east",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://caapakistan.com.pk/eAIP/03-22/eAIP/index.htm"
+    },
+    {
+        "PL": "europe",
+        "Poland": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.ais.pansa.pl/eAIP/2023-02-23/2023-02-23/html/index-en-GB.html"
+    },
+    {
+        "QA": "middle east",
+        "Qatar": "middle east",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.aim.gov.qa/eaip/2022-12-01-AIRAC/html/index-en-GB.html?s=D74CD0ADFB1EEAB00029AF65395995B8E55142A2"
+    },
+    {
+        "RE": "africa",
+        "Reunion": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/RUN/AIRAC-2023-02-23/html/index-fr-FR.html"
+    },
+    {
+        "BQ": "north central america",
+        "Saba": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "BQ": "north central america",
+        "Saint Eustatius": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "SN": "africa",
+        "Senegal": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "RS": "europe",
+        "Serbia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://smatsa.rs/wp-content/uploads/aip/trenutna_publikacija/2023-02-23/23-Feb-2023-A/2023-02-23-AIRAC/html/index_commands.html"
+    },
+    {
+        "SX": "north central america",
+        "Sint Maarten": "north central america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://dc-ansp.org/eAIS/eAIP-Publications/2022-10-06/html/index-en-GB.html"
+    },
+    {
+        "SI": "europe",
+        "Slovenia": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sloveniacontrol.si/acrobat/aip/Operations/2023-02-23-AIRAC/html/index.html"
+    },
+    {
+        "TW": "asia pacific",
+        "Taiwan": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://ais.caa.gov.tw/eaip/AIRAC%20AIP%20AMDT%2001-23_2023_02_23/index.html"
+    },
+    {
+        "TH": "asia pacific",
+        "Thailand": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aip.caat.or.th/2023-01-26-AIRAC/html/index-en-GB.html"
+    },
+    {
+        "TG": "africa",
+        "Togo": "africa",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://aim.asecna.aero/html/index-fr-FR.html"
+    },
+    {
+        "GB": "europe",
+        "United Kingdom": "europe",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.aurora.nats.co.uk/htmlAIP/Publications/2023-02-23-AIRAC/html/index-en-GB.html"
+    },
+    {
+        "VE": "south america",
+        "Venezuela": "south america",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.inac.gob.ve/eaip/2019-12-05/html/index-en-GB.html"
+    },
+    {
+        "WF": "asia pacific",
+        "Wallis and Futuna islands": "asia pacific",
+        "status": "EUROCONTROL eAIP",
+        "access": "Free access",
+        "url": "https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_23_FEB_2023/PAC-N/AIRAC-2023-02-23/html/index-fr-FR.html"
+    }
+]
